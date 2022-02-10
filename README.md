@@ -42,14 +42,23 @@ In order to view the project, navigate to the `san_francisco_housing.ipynb` note
 
 Since the analysis figures do not render live on GitHub, the figures from the analysis have been provided below, along with their corresponding notebook cell.
 
-[Cell 81 Out]:
+[Cell 11 Out]:
+![inertia vs k market data](https://github.com/MaxAcheson/module_10_challenge/blob/main/Images/Inertia%20vs.%20k%20values.png)
+
+[Cell 17 Out]:
 ![Clusters Part 1](https://github.com/MaxAcheson/module_10_challenge/blob/main/Images/Clusters%2024%20hour%20and%207%20day.png)
 
-[Cell 08 Out]:
-![Paypal Cumulative Returns](https://github.com/MaxAcheson/Module_7_Challenge/blob/main/Images/Second%20Figure%20Paypal%20Cumulative%20Returns.png)
+[Cell 26 Out]:
+![inertia vs k PCA](https://github.com/MaxAcheson/module_10_challenge/blob/main/Images/Inertia%20vs.%20k%20PCA.png)
 
-[Cell 18 Out]:
-![ETF Cumulative Returns](https://github.com/MaxAcheson/Module_7_Challenge/blob/main/Images/Third%20Figure%20Paypal%20Cumulative%20Returns%20Portfolio.png)
+[Cell 30 Out]:
+![Clusters Part 2](https://github.com/MaxAcheson/module_10_challenge/blob/main/Images/Clusters%2024%20hour%20and%207%20day%20PCA.png)
+
+[Cell 31 Out]:
+![Composite 1](https://github.com/MaxAcheson/module_10_challenge/blob/main/Images/Composite%20Plots%20Elbow.png)
+
+[Cell 32 Out]:
+![Composite 2](https://github.com/MaxAcheson/module_10_challenge/blob/main/Images/Composite%20Plots%20Clusters.png)
 
 ## Contributors
 
