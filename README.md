@@ -26,15 +26,15 @@ To clone the repository to your computer, first make sure you are using python v
 
 Next, confirm that the packages are installed by using the following code lines:
 
+`pip install jupyterlab`
+
 `pip install pandas`
 
 `pip install pyviz`
 
-`pip install hvplot`
-
 `pip install scikit-learn`
 
-`pip install jupyterlab`
+`pip install hvplot`
 
 ## Usage
 
